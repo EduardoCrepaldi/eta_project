@@ -15,28 +15,28 @@
         </thead>
         <tbody>
             <tr class="file">
-                <td class="name left"><a href="d_defad1a87623d8bf_ice_cream_stand_py.html">src/models/ice_cream_stand.py</a></td>
+                <td class="name left"><a href="src/models/ice_cream_stand.py">src/models/ice_cream_stand.py</a></td>
                 <td>24</td>
                 <td>0</td>
                 <td>0</td>
                 <td class="right" data-ratio="24 24">100%</td>
             </tr>
             <tr class="file">
-                <td class="name left"><a href="d_defad1a87623d8bf_restaurant_py.html">src/models/restaurant.py</a></td>
+                <td class="name left"><a href="src/models/restaurant.py">src/models/restaurant.py</a></td>
                 <td>34</td>
                 <td>0</td>
                 <td>0</td>
                 <td class="right" data-ratio="34 34">100%</td>
             </tr>
             <tr class="file">
-                <td class="name left"><a href="d_1935c3dcd196c8d0_test_ice_cream_stand_py.html">test/models/test_ice_cream_stand.py</a></td>
+                <td class="name left"><a href="test/models/test_ice_cream_stand.py">test/models/test_ice_cream_stand.py</a></td>
                 <td>66</td>
                 <td>0</td>
                 <td>0</td>
                 <td class="right" data-ratio="66 66">100%</td>
             </tr>
             <tr class="file">
-                <td class="name left"><a href="d_1935c3dcd196c8d0_test_restaurant_py.html">test/models/test_restaurant.py</a></td>
+                <td class="name left"><a href="test/models/test_restaurant.py">test/models/test_restaurant.py</a></td>
                 <td>75</td>
                 <td>0</td>
                 <td>0</td>
